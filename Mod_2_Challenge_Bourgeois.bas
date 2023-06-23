@@ -92,7 +92,8 @@ Sub MOD_2_Challenge()
                 
                 End If
                 
-                crt.Cells(tab_row, 11).NumberFormat = "0.00%; [red]-0.00%"
+                crt.Cells(tab_row, 11).NumberFormat = "0.00%"
+                sub_tot = sub_tot + Cells(I, 7).Value
                 crt.Cells(tab_row, 12).Value = sub_tot
                 
                 ' Determine if current stock's tot volume is higher than current max
