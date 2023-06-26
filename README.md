@@ -21,4 +21,4 @@ Instructions: Create a script which loops through the provided Excel workbook of
 Citations:
   * For looping through worksheets, referenced the folling site: https://support.microsoft.com/en-us/topic/macro-to-loop-through-all-worksheets-in-a-workbook-feef14e3-97cf-00e2-538b-5da40186e2b0
   * For Autofitting Columns using VBA, referenced the following site: https://learn.microsoft.com/en-us/office/vba/api/excel.range.autofit
-  * For converting Percent changes column to percentage format and additionally adding functionality to mark neg in red: https://www.educba.com/vba-number-format/
+  * For converting Percent changes column to percentage format: https://www.educba.com/vba-number-format/
